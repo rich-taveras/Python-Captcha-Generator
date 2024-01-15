@@ -1,4 +1,4 @@
-# Python-Catcha-Generator
+# Python-Captcha-Generator
 This Python script generates a simple CAPTCHA image using the Pillow (PIL) library. The CAPTCHA consists of random alphanumeric characters with added noise for security.
 
 # Requirements
@@ -7,7 +7,7 @@ Pillow library (pip install Pillow)
 
 # Usage
 
-git clone git@github.com:rich-taveras/Python-Catcha-Generator.git
+git clone git@github.com:rich-taveras/Python-Captcha-Generator.git
 
 Install the required dependencies:
 pip install Pillow
